@@ -74,4 +74,4 @@ async def comandos(ctx):
 
 
 
-bot.run ("ODk5NjU0NTEzODM1NzkwMzY2.YW16jg.T0fGmAF1IVXubvf0idCjTLMZrTw")
+bot.run ("aqui vai o token")
